@@ -155,14 +155,20 @@ button:hover {
 
 ---
 
-## ⭐ Extra Challenge (Optional)
+## 🏫 In-Class Assignment (Required)
 
-If you finish early, try:
+Tailor the page to your liking.
 
-- Centering your content
-- Adding a border to an image
-- Using a custom font
-- Creating a card-style box using a `<div>`
+👉 Make the website about **you or your interests**.
+
+Some ideas:
+- Your favorite hobby
+- A sport you like
+- A favorite video game
+- Music you enjoy
+- Your future career goals
+
+Be creative and personalize your design!
 
 ---
 
@@ -181,4 +187,3 @@ HTML = Structure
 CSS = Design  
 
 Have fun building your first website!
-
