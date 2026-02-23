@@ -1,4 +1,4 @@
-# 🌐 Week 4: Introduction to HTML & CSS
+# 🌐 Week 6: Introduction to HTML & CSS
 
 Welcome to your first web development assignment!
 
